@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, Mundo!
 
-<!--
-**Hdezvarela/Hdezvarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Luis Hernandez, soy un entusiasta de la tecnologia desde muy pequeño, apasionado por la programacion y el diseño. Estoy en GitHub para poder mostrar algunos de mis proyectos y dar alguna idea de lo que puedo construir, ademas de las habilidades que e desenvuelto en el pasado.
 
-Here are some ideas to get you started:
+## ⚡ Tecnologias
+  
+  Estas son las tecnologia que uso hasta el momento, ademas de algunas en las que estoy capacitandome continuamente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- Javascript
+- PHP
+- Laravel
+- Expressjs
+- Electronjs
+
+
+
+## 🚀 Ultimos Proyectos
+
+- <a href="https://github.com/Hdezvarela/Quizly"><b>Quizly</b></a><br>
+
+
+## 🌍 Buscandome en la web?
+
+Te dejo algunos lugares donde me puedes encontrar y contactar...
+
+<a href="https://hdezvarela.com/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-4b4d53?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portafolio - Luis Hernandez Varela"/>
+</a>
+<a href="https://www.linkedin.com/in/hdezvarela/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn · Luis Hernandez Varela"/>
+</a>
+<a href="https://www.behance.net/Hdezvarela">
+<img src="https://img.shields.io/badge/Behance-024feb?style=for-the-badge&logo=behance&logoColor=white" alt="Behance · Luis Hernandez Varela"/>
+</a>
